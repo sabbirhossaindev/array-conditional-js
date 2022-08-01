@@ -7,9 +7,17 @@ var index = names.indexOf('badun');
 
 // push
 // pop
+// length
 
 // conditional
 
 // <, >, ==, !=, <=, >=
 // && , ||
-// if, else, else if, else 
+// if, else, else if, else
+
+var numbers = [1, 5, 8];
+var position = numbers.indexOf(1);
+console.log(position);
+
+console.log(6 != 6);
+console.log(6 >= 6);
