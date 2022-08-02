@@ -1,3 +1,4 @@
+// 2.Problem done
 var fruits = ['Apple', 'Banana', 'Orange'];
 var bananaIndex = fruits.indexOf('Banana');
 fruits[bananaIndex] = 'Mango'
@@ -8,6 +9,7 @@ fruits.push('Watermelon');
 console.log(fruits);
 
 
+// 3.Problem done
 var num1 = 13;
 var num2 = 79;
 var num3 = 45;
@@ -25,7 +27,7 @@ else {
     console.log(num3);
 }
 
-
+// 4.Problem done
 var side1 = 9;
 var side2 = 8;
 var side3 = 9;
